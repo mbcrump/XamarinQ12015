@@ -56,7 +56,8 @@ namespace ListView
             {
                 base.ViewDidLoad();
 
-                NSString[] simpleArrayOfStrings = new NSString[] { new NSString("Brian Rinaldi"),
+                NSString[] simpleArrayOfStrings = new NSString[] { 
+                new NSString("Brian Rinaldi"),
                 new NSString("Burke Holland"),
                 new NSString("Cody Lindley"),
                 new NSString("Ed Charbeneau"),
