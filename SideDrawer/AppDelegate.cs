@@ -86,7 +86,7 @@ namespace SideDrawer
                 this.SideDrawer.Show();
             }
 
-           }
+       }
 
     }
 }
